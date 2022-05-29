@@ -2,9 +2,11 @@
 
 ## App Link
 
+- https://nextjs-metamask.vercel.app/
+
 ### Did you finish everything you wanted to? If not, what would you do if you spent another hour or two working on this?
 
-- No, there're more featured / improvements to add, i would spent another hour on:
+- No, there're more features / improvements to add, i would spent another hour on:
   - Error Handling FE / BE.
   - Better folder structure for components only used in one container and not shared by others
   - Refactor logic inside `/src/pages/index.tsx`, we can improve it moving the fetch logic in another layer and not in the page itself.
